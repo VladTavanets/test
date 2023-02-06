@@ -1,0 +1,2 @@
+Yunit 9.6
+Komanda "git pull"
